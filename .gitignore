@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PDF/Images/Text output
+*.jpg
+*.txt
+
+# Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Tesseract and Poppler binaries (if any)
+poppler-*
+tesseract-*
+
+# Python virtual environment
+*.egg-info/
+dist/
+build/
