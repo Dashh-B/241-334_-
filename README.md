@@ -13,7 +13,7 @@
 
 ## Используемые технологии
 
-- Python 3.x
+- Python 3.13
 - OpenCV
 - Pytesseract (обертка Tesseract OCR)
 - pdf2image (требует Poppler)
